@@ -1,0 +1,39 @@
+.text-pink {
+    color: pink;
+}
+.text-skyblue {
+    color: skyblue;
+}
+
+.myprofile {
+    text-shadow: 1px 1px 2px gray;
+}
+
+.myprofile {
+   letter-spacing: 1.2em;
+}
+
+html {
+    text-align: center;
+    font-size: 20px;
+}
+
+.myprofile{
+    border-bottom: solid 2px black;
+}
+
+body{
+   font-family: "Arial", "Meiryo", sans-serif;
+}
+
+h1{
+    font-style: sans-serif;
+}
+
+.text-hutoji{
+    font-weight: bold;
+}
+
+div > p{
+    font-weight: bold;
+}
